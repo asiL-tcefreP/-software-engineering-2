@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="paperpass:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/paperpass_jar</output-path>
+    <root id="archive" name="paperpass.jar">
+      <element id="module-output" name="paperpass" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queries/4.7.2/lucene-queries-4.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-queryparser/4.7.2/lucene-queryparser-4.7.2.jar" path-in-jar="/" />
+      <element id="library" level="project" name="ik-analyzer-3.2.8" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-analyzers-common/4.7.2/lucene-analyzers-common-4.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-sandbox/4.7.2/lucene-sandbox-4.7.2.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/janeluo/ikanalyzer/2012_u6/ikanalyzer-2012_u6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/apache/lucene/lucene-core/4.7.2/lucene-core-4.7.2.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
